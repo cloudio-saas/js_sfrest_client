@@ -7,5 +7,7 @@
    * const CLIENT_SECRET = "<<CLIENT_SECRENT>>"; 
    
  - Run `npm i` to install required packages
+
+ - Run `node app.js`
  
  - Access aplication using http://localhost:3090/ 
