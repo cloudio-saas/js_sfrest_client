@@ -4,8 +4,8 @@ var path = require('path');
 var app = express();
 var bodyParser = require("body-parser");
 var fetch = require('node-fetch');
-const CLIENT_ID = "3MVG9fMtCkV6eLheC2CXOuLSJtsN57Im0Gn2aavvvn5biqGw4PwlykH4Z1.ur01a06x1pj_Agbo1F0bTuV.JO";
-const CLIENT_SECRET = "D12C7EE097094D451BC18F6595A7F6B6B48A7D5B1E28822C8AF43F0FDF0B3A98";
+const CLIENT_ID = "<<CLIENT_ID>>";
+const CLIENT_SECRET = "<<CLIENT_SECRENT>>";
 const REDIRECT_URI = "http%3A%2F%2Flocalhost%3A3090%2Fconn%2Fcall_back";
 const BASE_URL = "https://login.salesforce.com";
 
