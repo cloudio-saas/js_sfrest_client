@@ -1,0 +1,22 @@
+{
+    "name": "sfrestclient",
+    "version": "1.0.0",
+    "description": "Salesforce Rest Cleint",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "sfrest"
+    ],
+    "author": "srikanth.akkapu@cloudio.io",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2",
+        "node-fetch": "^2.3.0",
+        "body-parser": "^1.19.1"
+    },
+    "devDependencies": {
+        "eslint": "^6.0.0"
+    }
+}
